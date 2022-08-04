@@ -1,0 +1,349 @@
+{
+    "push": {
+        "chest": {
+            "lower": [
+                "bench press",
+                "dumbell chest press",
+                "bench press",
+                "push-ups"
+            ],
+            "upper": [
+                "incline bench"
+            ]
+        },
+        "shoulder": {
+            "lower": [
+                "front raises"
+            ],
+            "upper": [
+                "lateral raises"
+            ]
+        },
+        "abs": {
+            "lower": [
+                "situp",
+                "pike",
+                "hanging crunches",
+                "reverse situp"
+            ],
+            "upper": [
+                "twists",
+                "side crunches"
+            ]
+        }
+    },
+    "pull": {
+        "back": {
+            "lower": [
+                "row"
+            ],
+            "upper": [
+                "lat pull wide grip"
+            ]
+        },
+        "biceps": {
+            "lower": [
+                "hammer curl",
+                "barbell curl",
+                "sitting down curls DB"
+            ],
+            "upper": [
+                "reverse grip barbell curl",
+                "plate curls"
+            ]
+        },
+        "abs": {
+            "lower": [
+                "situp",
+                "pike",
+                "hanging crunches",
+                "reverse situp"
+            ],
+            "upper": [
+                "twists",
+                "side crunches"
+            ]
+        }
+    },
+    "legs": {
+        "leg": {
+            "lower": [
+                "squats",
+                "forward lunges",
+                "single-Leg RDL"
+            ],
+            "upper": [
+                "backward lunges",
+                "side-to-side lunge",
+                "box jump",
+                "jump ropes"
+            ]
+        }
+    },
+    "chest": [
+        "Dumbbell Bench Press",
+        "Pushups",
+        "Close-grip bench press",
+        "Dumbbell Flyes",
+        "Incline dumbbell bench press",
+        "Low-cable cross-over",
+        "Barbell Bench Press - Medium Grip",
+        "Chest dip",
+        "Decline Dumbbell Flyes",
+        "Bodyweight Flyes",
+        "Incline cable chest fly",
+        "Decline barbell bench press",
+        "Wide-grip bench press",
+        "Wide-Grip Decline Barbell Bench Press",
+        "Reverse-grip incline dumbbell bench press"
+    ],
+    "lats": [
+        "Weighted pull-up",
+        "Pullups",
+        "Rocky Pull-Ups/Pulldowns",
+        "Close-grip pull-down",
+        "Pull-up",
+        "Muscle Up",
+        "Shotgun row",
+        "Close-Grip Front Lat Pulldown",
+        "V-bar pull-up",
+        "Rope climb",
+        "Wide-Grip Rear Pull-Up",
+        "Straight-arm rope pull-down",
+        "Lat pull-down",
+        "Reverse-grip lat pull-down",
+        "Gironda Sternum Chins"
+    ],
+    "middle back": [
+        "T-Bar Row with Handle",
+        "Reverse-grip bent-over row",
+        "One-Arm Dumbbell Row",
+        "One-Arm Long Bar Row",
+        "T-Bar Row",
+        "Bent Over Two-Arm Long Bar Row",
+        "Alternating sit-through with crunch",
+        "Rower",
+        "Seated Cable Rows",
+        "Incline dumbbell row",
+        "Bent Over Two-Dumbbell Row With Palms In",
+        "Upside-down pull-up",
+        "Bent Over Barbell Row",
+        "Single-arm cable seated row",
+        "Kettlebell alternating renegade row"
+    ],
+    "lower back": [
+        "Atlas Stones",
+        "Barbell deficit deadlift",
+        "Back extension",
+        "Axle Deadlift",
+        "Hyperextensions With No Hyperextension Bench",
+        "Deadlift with Bands",
+        "Deadlift with Chains",
+        "Rack Pull with Bands",
+        "Superman",
+        "Exercise ball weighted hyperextension",
+        "Rack pull",
+        "Seated Back Extension",
+        "Seated Good Mornings",
+        "Stiff Leg Barbell Good Morning",
+        "Atlas Stone Trainer"
+    ],
+    "neck": [
+        "Lying Face Down Plate Neck Resistance",
+        "Lying Face Up Plate Neck Resistance",
+        "Seated Head Harness Neck Resistance",
+        "Isometric Neck Exercise - Sides",
+        "Isometric Neck Exercise - Front And Back",
+        "Neck Bridge Prone",
+        "Side Neck Stretch",
+        "Chin To Chest Stretch",
+        "Neck-SMR"
+    ],
+    "quadriceps": [
+        "Single-Leg Press",
+        "Clean from Blocks",
+        "Barbell Full Squat",
+        "Tire flip",
+        "Barbell back squat to box",
+        "Push-press",
+        "Power snatch-",
+        "Hang Clean",
+        "Reverse Band Box Squat",
+        "Jumping rope",
+        "Barbell walking lunge",
+        "Front Squats With Two Kettlebells",
+        "Single Leg Push-off",
+        "Olympic Squat",
+        "Stair climber"
+    ],
+    "hamstrings": [
+        "Barbell Deadlift",
+        "Romanian Deadlift With Dumbbells",
+        "Clean Deadlift",
+        "Sumo deadlift",
+        "Romanian Deadlift from Deficit",
+        "Power Snatch",
+        "Power Clean from Blocks",
+        "Natural Glute Ham Raise",
+        "Glute ham raise-",
+        "Snatch Deadlift",
+        "Lying Leg Curls",
+        "Stiff-Legged Dumbbell Deadlift",
+        "Exercise ball leg curl",
+        "Kettlebell pass-through lunge",
+        "Power clean"
+    ],
+    "calves": [
+        "Smith Machine Calf Raise",
+        "Standing Calf Raises",
+        "Seated Calf Raise",
+        "Calf Press On The Leg Press Machine",
+        "Rocking Standing Calf Raise",
+        "Calf Press",
+        "Standing barbell calf raise",
+        "Barbell Seated Calf Raise",
+        "Balance Board",
+        "Weighted donkey calf raise",
+        "Smith Machine Reverse Calf Raises",
+        "Dumbbell Seated One-Leg Calf Raise",
+        "Ankle Circles",
+        "Peroneals-SMR",
+        "Knee Circles"
+    ],
+    "triceps": [
+        "Triceps dip",
+        "Decline EZ-bar skullcrusher",
+        "Dumbbell floor press",
+        "Cable V-bar push-down",
+        "Weighted bench dip",
+        "EZ-Bar Skullcrusher",
+        "Reverse Grip Triceps Pushdown",
+        "Push-Ups - Close Triceps Position",
+        "Kneeling cable triceps extension",
+        "Single-arm cable triceps extension",
+        "Triceps Pushdown - Rope Attachment",
+        "Seated triceps press",
+        "Incline EZ-bar skullcrusher",
+        "Decline Close-Grip Bench To Skull Crusher",
+        "Tricep Dumbbell Kickback"
+    ],
+    "traps": [
+        "Smith machine shrug",
+        "Leverage Shrug",
+        "Standing dumbbell shrug",
+        "Standing dumbbell upright row",
+        "Kettlebell sumo deadlift high pull",
+        "Calf-Machine Shoulder Shrug",
+        "Barbell shrug",
+        "Barbell behind-the-back shrug",
+        "Cable straight-bar upright row",
+        "Cable shrug",
+        "Smith machine behind-the-back shrug",
+        "Upright Row - With Bands",
+        "Smith machine upright row",
+        "Clean Shrug",
+        "Scapular Pull-Up"
+    ],
+    "shoulders": [
+        "Dumbbell front raise to lateral raise",
+        "Clean and press",
+        "Single-arm palm-in dumbbell shoulder press",
+        "Clean and jerk",
+        "Single-arm kettlebell push-press",
+        "Military press",
+        "Standing palms-in shoulder press",
+        "Seated barbell shoulder press",
+        "Seated Dumbbell Press",
+        "Standing dumbbell shoulder press",
+        "Single-arm lateral raise",
+        "Power Partials",
+        "Incline dumbbell reverse fly",
+        "Overhead dumbbell front raise",
+        "Seated dumbbell shoulder press"
+    ],
+    "abdominals": [
+        "Landmine twist",
+        "Elbow plank",
+        "Bottoms Up",
+        "Suspended ab fall-out",
+        "Dumbbell V-Sit Cross Jab",
+        "Standing cable low-to-high twist",
+        "Dumbbell spell caster",
+        "Decline reverse crunch",
+        "Spider crawl",
+        "Cocoons",
+        "Cross-Body Crunch",
+        "Single-arm high-cable side bend",
+        "Elbow-to-knee crunch",
+        "Decline Crunch",
+        "Hanging toes-to-bar"
+    ],
+    "glutes": [
+        "Barbell glute bridge",
+        "Barbell Hip Thrust",
+        "Single-leg cable hip extension",
+        "Glute bridge",
+        "Single-leg glute bridge",
+        "Step-up with knee raise",
+        "Kettlebell thruster",
+        "Kneeling Squat",
+        "Flutter Kicks",
+        "Glute Kickback",
+        "Exercise ball hip thrust",
+        "Kneeling Jump Squat",
+        "Pull Through",
+        "Hip Extension with Bands",
+        "Piriformis SMR"
+    ],
+    "biceps": [
+        "Incline Hammer Curls",
+        "Wide-grip barbell curl",
+        "EZ-bar spider curl",
+        "Hammer Curls",
+        "EZ-Bar Curl",
+        "Zottman Curl",
+        "Biceps curl to shoulder press",
+        "Barbell Curl",
+        "Concentration curl",
+        "Flexor Incline Dumbbell Curls",
+        "Machine Bicep Curl",
+        "Overhead cable curl",
+        "Dumbbell Bicep Curl",
+        "Close-grip EZ-bar curl",
+        "Cross-body hammer curl"
+    ],
+    "adductor": [
+        "Thigh adductor",
+        "Groiners",
+        "Band Hip Adductions",
+        "Side Leg Raises",
+        "Lateral hop",
+        "Groin and Back Stretch",
+        "Adductor SMR",
+        "Side Lying Groin Stretch",
+        "Adductor/Groin",
+        "Lying Bent Leg Groin",
+        "Carioca quick step",
+        "Lateral cone hop",
+        "Lateral box jump",
+        "Side-To-Side Adductor Stretch",
+        "HM Left Leg Swing"
+    ],
+    "abductors": [
+        "Hip Circles (Prone)",
+        "Standing Hip Circles",
+        "Clam",
+        "Iliotibial band SMR",
+        "Thigh abductor",
+        "Fire Hydrant",
+        "Windmills",
+        "Monster Walk",
+        "IT Band and Glute Stretch",
+        "Single-leg lying cross-over stretch",
+        "Standing hip circle",
+        "Lateral Band Walk",
+        "Dynamic pigeon stretch",
+        "Cross-over jack",
+        "Traveling thigh killa"
+    ]
+}
